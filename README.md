@@ -34,7 +34,7 @@ You can reach me through the following platforms / 下記の方法でご連絡�
 
 - **Email / メール**: miyiko2016@gmail.com 
 - **Line / ライン**: mimiincanada
-- **Facebook / フェイスブック**: facebook.com/MimiQQ123
+- **Facebook / フェイスブック**: facebook.com/Miyiko Qin
 - **Instagram / インスタグラム**:(https://www.instagram.com/chinesemimi1/reels/)
 - **YouTube / ユーチューブ**: https://www.youtube.com/@-LearnChinesewithMimi
 - **TikTok / ティックトック**: tiktok.com/@chinesemimi?lang=ja-JP
