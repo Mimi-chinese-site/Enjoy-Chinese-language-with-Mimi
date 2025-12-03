@@ -21,6 +21,7 @@ It includes basic Chinese characters, HSK courses, grammar lessons, and exercise
 [Visit the website / ウェブサイトにアクセスする](https://mimi.github.io/Mimi-chinese-site/)
 
 
+
 2. **Explore the different pages / ページを確認する**  
 
    | File | English | Japanese |
