@@ -27,12 +27,19 @@ It includes basic Chinese characters, HSK courses, grammar lessons, and exercise
    | `grammar.html` | Chinese grammar | 中国語文法 |
    | `exercises.html` | Exercises | 練習問題 |
 
----
 
-## 📞 Contact / 連絡先
+- ## 📞 Contact / 連絡先
 
-- Email:MIYIKO2016@gmail.com 
-- Line:mimiincanada
+You can reach me through the following platforms / 下記の方法でご連絡ください：
+
+- **Email / メール**: miyiko2016@gmail.com 
+- **Line / ライン**: mimiincanada
+- **Facebook / フェイスブック**: facebook.com/MimiQQ123
+- **Instagram / インスタグラム**:(https://www.instagram.com/chinesemimi1/reels/)
+- **YouTube / ユーチューブ**: https://www.youtube.com/@-LearnChinesewithMimi
+- **TikTok / ティックトック**: tiktok.com/@chinesemimi?lang=ja-JP
+
+
 
 ---
 
