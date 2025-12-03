@@ -18,7 +18,8 @@ It includes basic Chinese characters, HSK courses, grammar lessons, and exercise
 ## 💻 How to Use / 使い方
 
 1. **Visit the website / ウェブサイトにアクセスする**  
-(https://Mimi-chinese-site/)
+[Visit the website / ウェブサイトにアクセスする](https://mimi.github.io/Mimi-chinese-site/)
+
 
 2. **Explore the different pages / ページを確認する**  
 
