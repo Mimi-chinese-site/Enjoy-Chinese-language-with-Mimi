@@ -17,13 +17,18 @@ It includes basic Chinese characters, HSK courses, grammar lessons, and exercise
 
 ## 💻 How to Use / 使い方
 
-1. Visit the website: [https://your-username.github.io/Mimi-chinese-site/](https://your-username.github.io/Mimi-chinese-site/)  
-2. Explore the different pages:  
-   - `index.html` → Home page / ホームページ  
-   - `hanzi.html` → Basic Chinese characters / 基礎漢字  
-   - `hsk.html` → HSK courses / HSK コース  
-   - `grammar.html` → Chinese grammar / 中国語文法  
-   - `exercises.html` → Exercises / 練習問題  
+1. **Visit the website / ウェブサイトにアクセスする**  
+   [https://your-username.github.io/Mimi-chinese-site/](https://your-username.github.io/Mimi-chinese-site/)
+
+2. **Explore the different pages / ページを確認する**  
+
+   | File | English | Japanese |
+   |------|---------|---------|
+   | `index.html` | Home page | ホームページ |
+   | `hanzi.html` | Basic Chinese characters | 基礎漢字 |
+   | `hsk.html` | HSK courses | HSK コース |
+   | `grammar.html` | Chinese grammar | 中国語文法 |
+   | `exercises.html` | Exercises | 練習問題 |
 
 ---
 
