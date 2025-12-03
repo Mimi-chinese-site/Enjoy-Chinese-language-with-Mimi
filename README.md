@@ -18,7 +18,7 @@ It includes basic Chinese characters, HSK courses, grammar lessons, and exercise
 ## 💻 How to Use / 使い方
 
 1. **Visit the website / ウェブサイトにアクセスする**  
-   [https://your-username.github.io/Mimi-chinese-site/](https://your-username.github.io/Mimi-chinese-site/)
+(https://Mimi-chinese-site/)
 
 2. **Explore the different pages / ページを確認する**  
 
@@ -34,9 +34,8 @@ It includes basic Chinese characters, HSK courses, grammar lessons, and exercise
 
 ## 📞 Contact / 連絡先
 
-- Email: your-email@example.com  
-- WhatsApp: +123456789  
-- WeChat: your-wechat-id  
+- Email:MIYIKO2016@gmail.com 
+- Line:mimiincanada
 
 ---
 
